@@ -518,8 +518,10 @@ const data = {
     'api-token-desc': 'You can get your api token from <a target="_blank" href="http://openai.com">openai.com</a>',
     'engine-id': 'Engine Id',
     'engine-id-desc': 'Please refer to <a target="_blank" href="https://beta.openai.com/docs/engines/overview/">Engine Overview</a>',
+    'mode': 'Mode',
+    'max-tokens': 'Max Tokens',
     'args-json': 'Custom Arguments',
-    'args-json-desc': 'JSON string like {"max_tokens": 256}',
+    'args-json-desc': 'Query Parameters, JSON string like {"temperature": 0.3}',
   },
 }
 
